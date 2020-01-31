@@ -9,7 +9,7 @@ let sum = 0;
 // console.log(n);
 // console.log(digits);
 
-for (i=0;i<digits.length;i++){
+for (i=0;i<digits.digitsgth;i++){
     sum = parseFloat(digits[i]) + sum;
     console.log(sum)
 }
